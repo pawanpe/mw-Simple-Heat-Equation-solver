@@ -1,4 +1,4 @@
-# Finite differences for the 2D heat equation
+# Finite differences for the 2D heat equation with Open in MATLAB Online and FX
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Simple-Heat-Equation-solver)
 [![View Simple Heat Equation solver on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/59916-simple-heat-equation-solver)
 
